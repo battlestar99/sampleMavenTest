@@ -6,7 +6,7 @@ public class helloWorld {
 		
 		
 		
-		int x = 12; 
+	
 		
 		System.out.println("Hello World");
 		
